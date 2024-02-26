@@ -1,0 +1,8 @@
+.nav {
+    width: 1360px;
+    height: 64px;
+    left: 80px;
+    border: 0px, 0px, 1px, 0px;
+    gap: 470px;
+    border-bottom: 1px solid rgba(228, 228, 231, 1)
+}

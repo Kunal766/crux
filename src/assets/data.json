@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "name": "Jan",
+            "total": 675,
+        },
+        {
+            "name": "Feb",
+            "total": 132,
+        },
+        {
+            "name": "Mar",
+            "total": 133,
+        },
+        {
+            "name": "Apr",
+            "total": 1323,
+        },
+        {
+            "name": "May",
+            "total": 896,
+        },
+        {
+            "name": "Jun",
+            "total": 132,
+        }
+    ]
+}
